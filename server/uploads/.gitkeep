@@ -1,0 +1,2 @@
+# This file ensures the uploads directory is tracked by git
+# PDF files uploaded here are ignored by .gitignore

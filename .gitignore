@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.next/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Misc
+*.log
+*.tmp
+*.swp
+
+# Python (ignore entire py workspace and venv)
+py/
+venv/
+*/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pytest_cache/
+py/.env
