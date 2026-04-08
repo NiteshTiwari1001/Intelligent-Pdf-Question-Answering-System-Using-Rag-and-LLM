@@ -460,6 +460,31 @@ This project is licensed under the MIT License.
 
 ---
 
+## 📚 Research Publication
+
+This project is based on the research paper:
+
+"INTELLIGENT PDF QUESTION ANSWERING SYSTEM USING RAG AND LARGE LANGUAGE MODELS"
+
+Published in:
+Journal of Science, Computing and Engineering Research (JSCER), Volume-9, Issue-3, March 2026
+
+Authors:
+J.R. Arun Kumar (HOD)
+Nitesh Tiwari (Project Lead)
+Suyash Pradhan
+Neeraj Sharma
+Divyanshu Airan
+Vinay Saini
+
+© 2026 Authors
+
+This research work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+You are free to use, share, and adapt the material with proper attribution to the original authors.
+
+---
+
 ## 🙏 Acknowledgments
 
 - **Google Gemini** - AI language model
