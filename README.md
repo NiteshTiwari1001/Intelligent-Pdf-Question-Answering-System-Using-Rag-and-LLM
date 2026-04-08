@@ -470,11 +470,11 @@ Published in:
 Journal of Science, Computing and Engineering Research (JSCER), Volume-9, Issue-3, March 2026
 
 Authors:
-J.R. Arun Kumar (HOD)
-Nitesh Tiwari (Project Lead)
-Suyash Pradhan
-Neeraj Sharma
-Divyanshu Airan
+J.R. Arun Kumar (HOD),
+Nitesh Tiwari (Project Lead),
+Suyash Pradhan,
+Neeraj Sharma,
+Divyanshu Airan,
 Vinay Saini
 
 © 2026 Authors
